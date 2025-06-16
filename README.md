@@ -31,3 +31,6 @@ This task offers a hands-on learning opportunity in **real-time web development*
 Building a real-time chat app is not only relevant for messaging platforms but also lays the foundation for more complex applications like online gaming, collaborative tools, and live support systems. With the rise of platforms like WhatsApp, Discord, and Slack, understanding how real-time communication works is a highly valuable skill in modern web development.
 
 In conclusion, this task is a practical and exciting way to explore full-stack development. It brings together multiple technologies and emphasizes the importance of responsiveness, user experience, and seamless communication. By completing this task, I gained a deeper understanding of Socket.IO, backend integration, and the challenges of building live applications for the web.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/8d9888b9-1398-4df1-8745-1c255b44711a)
